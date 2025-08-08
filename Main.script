@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/d1dac3WG/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egg-Esp-predict0r/Xenosxcrpter/refs/heads/main/Main.lua"))()
